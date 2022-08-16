@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(150,100,150);
+}
+.header
+{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row-reverse;
+    justify-content: center;
+    background-color:rgb(128, 49, 128);
+    padding: 50px;
+    font-family: cursive;
+}
+.priya
+{
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+    row-gap: 10px;
+}
+.font
+{
+    display: flex;
+    flex-direction: row;
+    gap: 470px;
+    row-gap: 10px;
+    font-style: italic;
+}
+.icons
+{
+    display: flex;
+    justify-content:end;
+    gap: 5px;
+    margin;
+}
+.ab
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    row-gap: 10px;
+}
